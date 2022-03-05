@@ -1,0 +1,2 @@
+ALTER TABLE dept_emp
+ADD CONSTRAINT PK_dept_emp PRIMARY KEY (dept_no)
